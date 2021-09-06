@@ -1,10 +1,10 @@
 
-## Hola 👋
+## ¡Hola! <img src="https://raw.githubusercontent.com/Amdromeda/Amdromeda/main/palm.gif" width="22px">
 
-- Mi nombre es **Carlos**, en las redes me encontrarás como **Andr0meda** y soy de España.
+- Me llamo Carlos pero en las redes me encontrarás como **Andr0meda** y soy de España.
 - Aqui encontrarás mis repositorios y proyectos junto con mi web.
 
 
 ## Contacto 📧
 
-Encontrarás todas mis redes sociales y mi correo de electronico en mi **[sitio web](https://amdromeda.github.io/amdr0meda-web/)**.
+Encontrarás mis redes sociales y correo electronico de contacto en mi **[sitio web](https://git.io/JuO7f)**.
