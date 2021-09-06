@@ -5,6 +5,6 @@
 - Aqui encontrarás mis repositorios y proyectos junto con mi web.
 
 
-## Contacto 📧
+## Contacto 📨
 
 Encontrarás mis redes sociales y correo electronico de contacto en mi **[sitio web](https://git.io/JuO7f)**.
