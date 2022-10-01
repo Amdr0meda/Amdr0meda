@@ -11,8 +11,6 @@
 - 🇪🇸 Script en Bash para poder controlar operaciones basicas de gestion de ficheros, usuarios, directorios. (**[Enlace](https://github.com/Amdr0meda/Script_bash_op_basicas)**)
   - 🇬🇧 Bash script to control basic file, user and directory management operations. (**[Enlace](https://github.com/Amdr0meda/Script_bash_op_basicas)**)
   <br>
-- 🇪🇸 Listas de bloqueo DNS para el Pi-Hole, evitando la carga de sitios y dominios dañinos o peligrosos. (**[Enlace](https://github.com/Amdr0meda/Blocklist_Pi_Hole)**)
-  - 🇬🇧 DNS blocking lists for the Pi-Hole, preventing the loading of harmful or dangerous sites and domains. (**[Enlace](https://github.com/Amdr0meda/Blocklist_Pi_Hole)**)
 
 ## Contacto 📧
 🇪🇸 Las opciones de contacto estan en mi **[pagina web](https://git.io/JzpnW)**.<br>
